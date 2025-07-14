@@ -18,6 +18,9 @@ pip install ultralytics deep_sort_realtime opencv-python supervision
 - `best.pt` – YOLOv11 model trained to detect "player" and "ball"
 - `output_video.mp4` – Output video with annotated tracks
 
+- model download 'best.pt' link
+- https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
+
 ## How to Run
 
 1. Place `best.pt` and `15sec_input_720p.mp4` in the same folder.
